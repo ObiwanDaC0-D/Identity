@@ -1,4 +1,4 @@
-# Evidence Library — Version 6
+# Evidence Library — Version 7
 
 This curated pilot separates **empirical studies**, **scholarly reviews**, and **research monographs**. It does not claim that all 28 frameworks have an equivalent experimental evidence base. The records below summarize publication abstracts and bibliographic information; they are not full-text systematic critical appraisals.
 
@@ -65,3 +65,59 @@ This curated pilot separates **empirical studies**, **scholarly reviews**, and *
 ## Scope
 
 For acting pedagogies, avoid inventing peer-reviewed validation. Primary manuals and practitioner traditions are important historical sources but are not interchangeable with controlled outcome research. Additional studies should be added only after bibliographic and methodological verification.
+
+## Additional curated sources (V7)
+
+## Higgins, Bond, Klein & Strauman (1986). Self-discrepancies and emotional vulnerability.
+
+- **Linked entry:** i7
+- **Evidence type:** Experimental and correlational study
+- **DOI:** https://doi.org/10.1037/0022-3514.51.1.5
+- **Method:** Two studies measured actual, ideal and ought self-attributes before later experimental sessions.
+- **Finding / contribution:** Examined how discrepancy magnitude, accessibility and type relate to affective vulnerability.
+- **Limitations:** Measurement and experimental context limit generalization; emotion-specific predictions require independent replication.
+- **Competing explanation:** General negative affect and situational expectations may also explain some responses.
+
+## Higgins (1987). Self-discrepancy: A theory relating self and affect.
+
+- **Linked entry:** i7
+- **Evidence type:** Theory paper
+- **DOI:** https://doi.org/10.1037/0033-295X.94.3.319
+- **Method:** Theoretical integration of self-guides, discrepancy types and affective predictions, drawing on prior research.
+- **Finding / contribution:** Proposes distinct vulnerabilities associated with actual–ideal and actual–ought discrepancies.
+- **Limitations:** Theory paper is not itself a single new controlled test of every prediction.
+- **Competing explanation:** Emotional patterns may depend on accessibility, context and other affective processes.
+
+## Markus & Nurius (1986). Possible selves.
+
+- **Linked entry:** i8
+- **Evidence type:** Theory paper
+- **DOI:** https://doi.org/10.1037/0003-066X.41.9.954
+- **Method:** Conceptual account of hoped-for, expected and feared future self-representations.
+- **Finding / contribution:** Proposes possible selves as links between self-concept and motivation.
+- **Limitations:** Conceptual contribution alone cannot establish intervention effectiveness.
+- **Competing explanation:** Motivation may depend on feasibility, strategies and external opportunity.
+
+## Burke & Stets (2023). Prominence and Salience Effects on Identity Nonverification.
+
+- **Linked entry:** i4
+- **Evidence type:** Empirical study
+- **DOI:** https://doi.org/10.1177/01902725231202255
+- **Method:** Study of a national sample of adults experiencing identity nonverification during the COVID-19 pandemic.
+- **Finding / contribution:** Investigates whether identity prominence and salience moderate emotional reactions to nonverification.
+- **Limitations:** Context-specific observational responses do not establish universal causal effects.
+- **Competing explanation:** Pandemic-related distress and differing identity contexts may influence reactions.
+
+## Stets & Serpe (2013). Identity Theory.
+
+- **Linked entry:** i4
+- **Evidence type:** Research synthesis
+- **DOI:** https://doi.org/10.1007/978-94-007-6772-0_2
+- **Method:** Handbook synthesis of identity theory, survey and laboratory approaches, and measurement.
+- **Finding / contribution:** Reviews identity salience, verification, multiple identities and emotions as major research areas.
+- **Limitations:** A scholarly review is not a single primary test and should not be counted as one.
+- **Competing explanation:** Related interactionist and social identity models can account for overlapping observations.
+
+## Evidence classification note
+
+A theory paper, research synthesis, philosophical argument, and acting manual are not experimental tests. Bibliographic summaries here are not a systematic literature review. Source selection is illustrative, not exhaustive; a claim of research consensus requires more comprehensive assessment.
